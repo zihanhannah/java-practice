@@ -8,7 +8,7 @@ public class CheckIntegerType {
 
         for(int i=0;i<t;i++)
         {
-
+// add sth
             try
             {
                 long x=sc.nextLong();
