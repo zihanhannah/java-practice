@@ -6,8 +6,8 @@ import java.util.Scanner;
  *
  * LEVEL: BASIC
  *
- * @param a     First number to add
- * @param b     Second number to add
+ * a    First number to add
+ * b     Second number to add
  * @return      The sum
  */
 public class AddDouble {
