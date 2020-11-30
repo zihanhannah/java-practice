@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  *  a     First String
  *  b     Second String
- * @return      The joined strings
+ * @reture      The joined strings
  */
 public class ConcatenateString {
     public static void main(String[] args) {
